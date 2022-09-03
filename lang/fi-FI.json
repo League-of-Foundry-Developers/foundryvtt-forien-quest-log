@@ -79,9 +79,9 @@
     "QuestPreview": {
       "CustomSource": "Mukautettu alkuperä",
       "Description": "Kuvaus:",
-      "DragDropActor": "Vedä & pudota toimija, tavara tai muistiinpano tai napsauta vasemmalla asettaaksesi mukautetun alkuperän.",
-      "DragDropActorPlayer": "Vedä & pudota toimija, tavara tai muistiinpano.",
-      "DragDropRewards": "Vedä & pudota tavaroita tähän asettaaksesi ne palkkioiksi.",
+      "DragDropActor": "Raahaa & pudota hahmo, tavara tai muistiinpano tai napsauta vasemmalla asettaaksesi mukautetun alkuperän.",
+      "DragDropActorPlayer": "Raahaa & pudota hahmo, tavara tai muistiinpano.",
+      "DragDropRewards": "Raahaa & pudota tavaroita tähän asettaaksesi ne palkkioiksi.",
       "GMNotes": "PJ:n muistiinpanot:",
       "HeaderButtons": {
         "Show": "Näytä pelaajille"
@@ -98,13 +98,13 @@
       },
       "Notifications": {
         "BadUUID": "Dokumenttia ei löytynyt UUID:llä: {uuid}",
-        "WrongDocType": "Forien's Quest Log hyväksyy vain maailman / hakemiston toimijoita, tavaroita ja muistiinpanoja tehtävänantajiksi.",
+        "WrongDocType": "Forien's Quest Log hyväksyy vain maailman / hakemiston hahmoja, tavaroita ja muistiinpanoja tehtävänantajiksi.",
         "WrongItemType": "Forien's Quest Log hyväksyy vain maailman ja hakemiston tavaroita palkkioiksi."
       },
       "Objective": "Tavoite",
       "Objectives": "Tavoitteet:",
       "Reward": "Palkkio",
-      "RewardDrop": "FQL (palkkio): {userName} raahasi tavaran \"{itemName}\" toimijalle {actorName}",
+      "RewardDrop": "FQL (palkkio): {userName} raahasi tavaran \"{itemName}\" hahmolle {actorName}",
       "Rewards": "Palkkiot:",
       "SubTitle": "Alitehtävä ({0})",
       "Tabs": {
@@ -154,7 +154,7 @@
       },
       "allowPlayersDrag": {
         "Enable": "Salli pelaajien raahata palkkioita",
-        "EnableHint": "Valitse salliaksesi pelaajien raahata palkkioita tehtävän yksityiskohdista omistamilleen toimijoille."
+        "EnableHint": "Valitse salliaksesi pelaajien raahata palkkioita tehtävän yksityiskohdista omistamilleen hahmoille."
       },
       "countHidden": {
         "Enable": "Laske piilotetut tavoitteet",
@@ -207,7 +207,7 @@
     },
     "Tooltips": {
       "AddAbstract": "Lisää tiivistelmä",
-      "ChangeSplashPos": "Muuta kansikuvan sijaintia",
+      "ChangeSplashPos": "Muuta kansikuvan tasausta",
       "Delete": "Poista",
       "DeleteQuestGiver": "Poista tehtävänantaja",
       "DeleteSplash": "Poista kansikuva",
@@ -231,7 +231,7 @@
       "Status": "Tila: {statusI18n}",
       "TaskHidden": "Tavoite on piilotettu. Paina näyttääksesi sen.",
       "TaskVisible": "Tavoite on näkyvillä. Paina piilottaaksesi sen.",
-      "ToggleImage": "Näytä / piilota pelinappulan / toimijan kuva",
+      "ToggleImage": "Näytä / piilota pelinappulan / hahmon kuva",
       "UnlockAll": "Avaa lukitus kaikista"
     }
   }
