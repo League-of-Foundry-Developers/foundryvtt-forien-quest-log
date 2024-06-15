@@ -402,7 +402,7 @@ export default class Enrich
          const itemLink = type === 'item' && !canEdit && !canPlayerDrag && !item.locked;
 
          return {
-            name: await TextEditor.enrichHTML(DOMPurify.sanitize(item.data.name), { async: true }),
+            name: await TextEditor.enrichHTML(DOMPurify.sanitizeWithVideo(item.data.name), { async: true }),
             img: item.data.img,
             type,
             hidden: item.hidden,
