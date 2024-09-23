@@ -10,6 +10,18 @@
 
 [![Weblate Translations](https://weblate.foundryvtt-hub.com/widgets/forien-quest-log/-/287x66-grey.png)](https://weblate.foundryvtt-hub.com/engage/forien-quest-log/)
 
+As of the latest FQL release `0.8.0` this repository is no longer the active source of the [Foundry FQL package](https://foundryvtt.com/packages/forien-quest-log/). For the time being this repository will
+remain available to serve previous versions of `0.7.x` for the next couple of years.
+
+I (`TyphonJS / Michael`) took over maintaining and fully building out the FQL you know and love from Foundry versions `0.8` to `v12` in the `0.7.x` release 
+series culminating in the `0.8.0` release that was passed back to [Forien](https://github.com/Forien). I took FQL from minimum viable product (MVP) to a rock solid questing solution.
+Please direct all future issues and questions to the [main active repository for FQL](https://github.com/Forien/foundryvtt-forien-quest-log). You may also opt to 
+get in contact with Forien through:
+
+- Discord: https://discord.gg/XkTFv8DRDc
+- Patreon: https://www.patreon.com/foundryworkshop
+
+
 This module provides comprehensive Quest Log system for players and Game Masters to use with [Foundry VTT](https://foundryvtt.com/).
 
 **[Compatibility]**: _FoundryVTT_ `v11` / `v12` as of FQL version `0.8.0`.
